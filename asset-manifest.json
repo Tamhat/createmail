@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78bd2a7b.css",
+    "main.js": "/static/js/main.ff38185d.js",
+    "static/media/NexaBold.otf": "/static/media/NexaBold.7ce7b0167567978cb418.otf",
+    "static/media/NexaLight.otf": "/static/media/NexaLight.a8eec4ed8ccd07a9bcca.otf",
+    "index.html": "/index.html",
+    "main.78bd2a7b.css.map": "/static/css/main.78bd2a7b.css.map",
+    "main.ff38185d.js.map": "/static/js/main.ff38185d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bd2a7b.css",
+    "static/js/main.ff38185d.js"
+  ]
+}
